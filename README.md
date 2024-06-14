@@ -21,8 +21,8 @@
 <a href="https://www.linkedin.com/in/shivcharan-prasad-barai-830342203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivcharan barai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivcharanbarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivcharan barai" height="30" width="40" /></a>
 <a href="https://youtube.com/@technicalcodestudio?si=AP5Bh0g4XFfEipIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techanicalcodestudio" height="30" width="40" /></a>
-  <a href="https://x.com/ShivcharanBarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techanicalcodestudio" height="30" width="40" /></a>
-   <a href="https://www.facebook.com/ShivCharan.Barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techanicalcodestudio" height="30" width="40" /></a>
+  <a href="https://x.com/ShivcharanBarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+   <a href="https://www.facebook.com/ShivCharan.Barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
